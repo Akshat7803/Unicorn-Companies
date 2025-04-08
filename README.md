@@ -26,8 +26,8 @@ Information on the dataset include:
 
 ## SQL Queries
 
-- `data_cleaning.sql`: a query for data cleaning
-- `data_exploration.sql`: a query for data exploration
+- `Data Cleaning.sql`: a query for data cleaning
+- `Data Exploration.sql`: a query for data exploration
 
 ## Analytical Results
 
@@ -38,7 +38,7 @@ Brief findings of this project are:
 4. The United States has the most unicorns.
 5. Accel has funded the most unicorns.
 
-Please check `Analytical_results.pdf` for more details and meaningful discussion on query outputs and analytical results.
+Please check `Analytical results.pdf` for more details and meaningful discussion on query outputs and analytical results.
 
 ## Acknowledgments
 
